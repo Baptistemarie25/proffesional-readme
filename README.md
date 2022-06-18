@@ -1,4 +1,4 @@
-# readme generator
+# Proffessional Readme Generator
   ![badge](https://img.shields.io/static/v1?label=license&message=APACHE-2.0&color=green)
 
   ## Table of Contents
@@ -19,15 +19,15 @@
 
   ## Description
 
-  fdaknfkvanfkea
+  This application generates a Readme page based on user input. After a user answers all of the prompt questions a Readme page is generated containing the users answers.
 
   ## Installation
 
-  ndkavndk
+  Clone repository and install the required packages inquirer, and fs
 
   ## Usage
 
-  ndavnjeavn
+  Application can be used to generate a Readme.md file
 
   
   ## License
@@ -38,7 +38,7 @@
 
   ## Contribution
 
-  vndfkbnfksn
+  Adding new features, styling 
 
   ## Testing
 
