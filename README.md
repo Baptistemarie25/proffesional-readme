@@ -55,4 +55,4 @@
   
   ## LINK TO WALKTHROUGH VIDEO
   
-  ![walkthrough](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/5d4e0397-e578-422b-y235-8fc52d9ed357)
+  ![walkthrough](https://drive.google.com/file/d/1_ahX_TVO30sPagvFy6IOQK_tG-nyZDY5/view?usp=sharing)
