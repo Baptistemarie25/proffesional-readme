@@ -4,10 +4,10 @@ function renderLicenseBadge(license) {
   if (license === 'None') {
     return '';
   } else {
-    return `https://img.shields.io/static/v1?label=license&message=${license.replace(
+    return `![badge](https://img.shields.io/static/v1?label=license&message=${license.replace(
       ' ',
       '-'
-    )}&color=green`;
+    )}&color=green)`;
   }
 }
 
@@ -31,11 +31,11 @@ function renderLicenseSection(license) {
   } else {
     let licenseLink = renderLicenseLink(license);
     return `
-    ## License
+  ## License
     
-    This project has the ${license} license. 
-    You can find the link to this license at: ${licenseLink}
-    `;
+  This project has the ${license} license. 
+  You can find the link to this license at: ${licenseLink}
+  `;
   }
 }
 
@@ -48,19 +48,19 @@ function generateMarkdown(data) {
 
   ## Table of Contents
 
-  [Description] (#description)
+  [Description](#description)
 
-  [Installation] (#installation)
+  [Installation](#installation)
 
-  [Usage] (#usage)
+  [Usage](#usage)
 
-  [License] (#license)
+  [License](#license)
 
-  [Contribution] (#contribution)
+  [Contribution](#contribution)
 
-  [Testing] (#testing)
+  [Testing](#testing)
 
-  [Questions] (#questions)
+  [Questions](#questions)
 
   ## Description
 
